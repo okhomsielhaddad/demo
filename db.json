@@ -1,8 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "enrollments": [
+    //[{"Is_Active__c":true,"Compensation_Type__c":"Monthly"}, {"Is_Active__c":true, "Compensation_Type__c":"Hourly"}]
+    { "Is_Active__c": true, "Compensation_Type__c": "Monthly", "Integration_Key__c" : "111222333" },
+    { "Is_Active__c": true, "Compensation_Type__c": "Hourly", "Integration_Key__c" : "444555666" },
+    { "Is_Active__c": false, "Compensation_Type__c": "Monthly", "Integration_Key__c" : "777888999" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
