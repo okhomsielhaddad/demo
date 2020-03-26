@@ -1,5 +1,5 @@
 {
-  "enrollments": [
+  "employments": [
     { "Is_Active__c": true, "Compensation_Type__c": "Monthly", "Integration_Key__c" : "111222333" },
     { "Is_Active__c": true, "Compensation_Type__c": "Hourly", "Integration_Key__c" : "444555666" },
     { "Is_Active__c": false, "Compensation_Type__c": "Monthly", "Integration_Key__c" : "777888999" }
