@@ -1,0 +1,14 @@
+{
+  "enrollments": [
+    { "Step__c": 5, "Full_or_Part_Time__c": "Full Time", "Integration_Key__c" : "111222333" },
+    { "Step__c": 4, "Full_or_Part_Time__c": "Full Time", "Integration_Key__c" : "444555666" },
+    { "Step__c": 3, "Full_or_Part_Time__c": "Full Time", "Integration_Key__c" : "777888999" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
